@@ -3,7 +3,6 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
-- [Demo Video](#demo-video)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
@@ -15,13 +14,6 @@ Welcome to the Psychological State Detection project! This project utilizes arti
 
 - [Presentation](./presentation.pptx): PowerPoint presentation explaining the project in detail.
   
-## Demo Video
-
-[![Watch the Demo Video](./docs/demo_video_thumbnail.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK)
-
-- Click the image above to watch a demonstration of the project in action.
-- For a detailed explanation, refer to the [presentation](./presentation.pptx).
-
 ## Usage
 
 To use this project, follow these steps:
